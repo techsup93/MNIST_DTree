@@ -1,2 +1,2 @@
 # MNIST_DTree
-MNIST decision tree classification in jupyter notebook
+MNIST Random Forest classification in jupyter notebook
