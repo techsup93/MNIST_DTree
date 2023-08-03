@@ -1,2 +1,2 @@
 # MNIST_RandomForest
-MNIST Random Forest classification in jupyter notebook
+Random Forest classification on MNIST dataset in Jupyter notebook
